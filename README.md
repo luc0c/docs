@@ -1,1 +1,1 @@
-## docs for angels.lat bot
+# docs for https://june.lat
